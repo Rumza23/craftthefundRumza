@@ -1,4 +1,4 @@
 export const WebsiteName: string = "Craft the Fund"
-export const WebsiteBaseUrl: string = ""
-export const WebsiteDescription: string = "It's not much but it's honest work"
+export const WebsiteBaseUrl: string = "craftthefund"
+export const WebsiteDescription: string = "The best place where you can fund your crafts"
 export const CreateProfileStep: boolean = true
